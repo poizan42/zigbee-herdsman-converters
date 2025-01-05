@@ -1,5 +1,13 @@
 # Changelog
 
+## [21.13.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.13.0...v21.13.1) (2025-01-05)
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZ3000_x3ewpzyr` as Tuya XSH01A https://github.com/Koenkk/zigbee2mqtt/issues/23155 ([633b76c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/633b76c68ff1b68b96cd577f980bdda03a0ba0ca))
+* Fix ZWT198/ZWT100-BH preset modes ([#8565](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8565)) ([33b785a](https://github.com/Koenkk/zigbee-herdsman-converters/commit/33b785a628589e07a42a9b8cfa3254cf56c20b3f))
+
 ## [21.13.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.12.0...v21.13.0) (2025-01-05)
 
 
